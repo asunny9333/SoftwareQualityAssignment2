@@ -5,3 +5,10 @@ C:\Users\ASUS\source\repos\SystemQualityAssignment2\SystemQualityAssignment2\obj
 C:\Users\ASUS\source\repos\SystemQualityAssignment2\SystemQualityAssignment2\obj\Debug\eCommerceApp.csproj.CoreCompileInputs.cache
 C:\Users\ASUS\source\repos\SystemQualityAssignment2\SystemQualityAssignment2\obj\Debug\SystemQualityAssignment2.exe
 C:\Users\ASUS\source\repos\SystemQualityAssignment2\SystemQualityAssignment2\obj\Debug\SystemQualityAssignment2.pdb
+C:\Users\jayes\Source\Repos\SoftwareQualityAssignment2\SystemQualityAssignment2\bin\Debug\SystemQualityAssignment2.exe.config
+C:\Users\jayes\Source\Repos\SoftwareQualityAssignment2\SystemQualityAssignment2\bin\Debug\SystemQualityAssignment2.exe
+C:\Users\jayes\Source\Repos\SoftwareQualityAssignment2\SystemQualityAssignment2\bin\Debug\SystemQualityAssignment2.pdb
+C:\Users\jayes\Source\Repos\SoftwareQualityAssignment2\SystemQualityAssignment2\obj\Debug\eCommerceApp.csproj.AssemblyReference.cache
+C:\Users\jayes\Source\Repos\SoftwareQualityAssignment2\SystemQualityAssignment2\obj\Debug\eCommerceApp.csproj.CoreCompileInputs.cache
+C:\Users\jayes\Source\Repos\SoftwareQualityAssignment2\SystemQualityAssignment2\obj\Debug\SystemQualityAssignment2.exe
+C:\Users\jayes\Source\Repos\SoftwareQualityAssignment2\SystemQualityAssignment2\obj\Debug\SystemQualityAssignment2.pdb
