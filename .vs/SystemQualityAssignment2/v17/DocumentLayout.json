@@ -3,11 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\SystemQualityAssignment2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D077C5D2-3886-46EA-8BF8-C126EE632A1C}|SystemQualityAssignment2\\SystemQualityAssignment2.csproj|c:\\users\\asus\\source\\repos\\systemqualityassignment2\\systemqualityassignment2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7725B18-E396-4B7F-811B-B12D35ACFF75}|Test\\Test.csproj|c:\\users\\asus\\source\\repos\\systemqualityassignment2\\test\\producttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7725B18-E396-4B7F-811B-B12D35ACFF75}|Test\\Test.csproj|solutionrelative:test\\producttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D077C5D2-3886-46EA-8BF8-C126EE632A1C}|SystemQualityAssignment2\\eCommerceApp.csproj|c:\\users\\asus\\source\\repos\\systemqualityassignment2\\systemqualityassignment2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D077C5D2-3886-46EA-8BF8-C126EE632A1C}|SystemQualityAssignment2\\eCommerceApp.csproj|solutionrelative:systemqualityassignment2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D077C5D2-3886-46EA-8BF8-C126EE632A1C}|SystemQualityAssignment2\\SystemQualityAssignment2.csproj|C:\\Users\\ASUS\\source\\repos\\SystemQualityAssignment2\\systemqualityassignment2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D077C5D2-3886-46EA-8BF8-C126EE632A1C}|SystemQualityAssignment2\\SystemQualityAssignment2.csproj|solutionrelative:systemqualityassignment2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D077C5D2-3886-46EA-8BF8-C126EE632A1C}|SystemQualityAssignment2\\SystemQualityAssignment2.csproj|c:\\users\\asus\\source\\repos\\systemqualityassignment2\\systemqualityassignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7725B18-E396-4B7F-811B-B12D35ACFF75}|Test\\Test.csproj|C:\\Users\\ASUS\\source\\repos\\SystemQualityAssignment2\\test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7725B18-E396-4B7F-811B-B12D35ACFF75}|Test\\Test.csproj|solutionrelative:test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D077C5D2-3886-46EA-8BF8-C126EE632A1C}|SystemQualityAssignment2\\SystemQualityAssignment2.csproj|C:\\Users\\ASUS\\source\\repos\\SystemQualityAssignment2\\systemqualityassignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D077C5D2-3886-46EA-8BF8-C126EE632A1C}|SystemQualityAssignment2\\SystemQualityAssignment2.csproj|solutionrelative:systemqualityassignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,24 +30,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\SystemQualityAssignment2\\SystemQualityAssignment2\\Product.cs",
               "RelativeDocumentMoniker": "SystemQualityAssignment2\\Product.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\SystemQualityAssignment2\\SystemQualityAssignment2\\Product.cs",
               "RelativeToolTip": "SystemQualityAssignment2\\Product.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAowC4AAAAAAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAvwA8AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T17:50:18.825Z",
+              "WhenOpened": "2024-06-07T18:33:52.085Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "ProductTest.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\SystemQualityAssignment2\\Test\\ProductTest.cs",
+              "RelativeDocumentMoniker": "Test\\ProductTest.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\SystemQualityAssignment2\\Test\\ProductTest.cs",
+              "RelativeToolTip": "Test\\ProductTest.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAA7wCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T18:33:24.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\SystemQualityAssignment2\\Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Test\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\SystemQualityAssignment2\\Test\\UnitTest1.cs",
+              "RelativeToolTip": "Test\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T18:14:21.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\SystemQualityAssignment2\\SystemQualityAssignment2\\Product.cs",
+              "RelativeDocumentMoniker": "SystemQualityAssignment2\\Product.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\SystemQualityAssignment2\\SystemQualityAssignment2\\Product.cs",
+              "RelativeToolTip": "SystemQualityAssignment2\\Product.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAApwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T17:50:18.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\SystemQualityAssignment2\\SystemQualityAssignment2\\Program.cs",
               "RelativeDocumentMoniker": "SystemQualityAssignment2\\Program.cs",
@@ -43,12 +93,7 @@
               "RelativeToolTip": "SystemQualityAssignment2\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T17:42:50.56Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-06-07T17:42:50.56Z"
             }
           ]
         }
